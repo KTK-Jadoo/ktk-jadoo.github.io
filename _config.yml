@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:jadoo@berkeley.edu"}
   - {title: Github, icon: github, url: "https://github.com/KTK-Jadoo"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/kartikae/"}
-  - {title: X, icon: x, url: "https://x.com/jadoohai"}
+  - {title: X, icon: twitter, url: "https://x.com/jadoohai"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
