@@ -3,4 +3,6 @@ layout: page
 title: ""
 ---
 
-{% include archive.html title="Posts" %}
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% endif %}
