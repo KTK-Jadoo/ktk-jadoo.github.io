@@ -17,9 +17,9 @@ mathjax: true
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}https://github.com/KTK-Jadoo/ktk-jadoo.github.io/blob/master/_config.yml
-  - {file: "NOV2024.pdf", title: CV, icon: home}
   - {file: "README.md", title: About}
   - {file: "blog.md", title: Blog}
+  - {file: "NOV2024.pdf", title: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Gmail, icon: envelope, url: "mailto:jadoo@berkeley.edu"}
