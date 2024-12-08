@@ -17,12 +17,14 @@ mathjax: true
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home, icon: Home}
+  - {file: "NOV2024.pdf", title: CV, icon: }
+  - {file: "README.md", title: About, icon: address-card}
   - {file: "README.md", title: About, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jadoo@berkeley.edu"}
   - {title: Github, icon: github, url: "https://github.com/KTK-Jadoo"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/kartikae/"}
   - {title: X, icon: x, url: "https://x.com/jadoohai"}
 
 comments:
