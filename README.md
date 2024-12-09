@@ -11,3 +11,5 @@ Recently, I’ve been drawn to the fascinating world of real-time rendering and 
 Outside of work and studies, I’m usually exploring something new—whether it’s the latest in gaming, diving into physics, or just jamming with my bass. For me, it’s all about staying curious, learning constantly, and building things that matter.
 
 Thanks for stopping by!
+
+My bento: https://bento.me/jambie
